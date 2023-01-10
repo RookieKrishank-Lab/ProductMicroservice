@@ -1,0 +1,6 @@
+com\productMicroService\Product\controller\ProductController.class
+com\productMicroService\Product\model\ProductDetails.class
+com\productMicroService\Product\ProductApplication.class
+com\productMicroService\Product\repository\ProductRepository.class
+com\productMicroService\Product\service\ProductServiceImple.class
+com\productMicroService\Product\service\ProductService.class
